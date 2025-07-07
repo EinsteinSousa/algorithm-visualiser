@@ -1,6 +1,6 @@
 # algorithm-visualiser
 
-Here’s a polished **README template** for your Algorithm Visualiser project—feel free to adapt the language, structure, and sections to match your needs:
+
 
 ---
 
